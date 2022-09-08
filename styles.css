@@ -2,6 +2,7 @@
   border: 1px solid darkslateblue;
   height: 180px;
   width: 180px;
+  display: flex;
 }
 
 .grid div {
